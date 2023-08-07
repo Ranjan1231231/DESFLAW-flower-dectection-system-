@@ -3,7 +3,7 @@ This model is trained on only "daisy,dandelion,rose,sunflower,tulip" flowers.
 Dataset-https://www.kaggle.com/datasets/alxmamaev/flowers-recognition
 
 
-My trained keras file(trained for 100 epochs)-
+My trained keras file(trained for 100 epochs)-https://drive.google.com/file/d/1FuYWvlRP5wwLoFBD4JZUWKvjL3X5gv0Y/view?usp=drive_link
 
 
 
